@@ -1,8 +1,8 @@
-# React + Vite
+# Theme Switch
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Light Mode
+![image](https://github.com/PranshuRaj1/themeSwitcher/assets/139574633/01c6be5b-dc8d-4157-a80e-99864d7dbca9)
 
-Currently, two official plugins are available:
+Dark Mode
+![image](https://github.com/PranshuRaj1/themeSwitcher/assets/139574633/0cdb2511-cc51-495a-9c23-979c2374f346)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
